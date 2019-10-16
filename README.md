@@ -15,3 +15,5 @@
 6. 단, 터치수가 3개 이상이 되면 (플레이어는 2명만 필요하므로 룰에 어긋남)  경고창이 등장하여 화면을 가립니다. 
    (다시 터치수가 3개 미만이 되면 사라짐)
 ~~~
+
+[![Video Label](http://img.youtube.com/vi/5RLKo8WSG4w/0.jpg)](https://youtu.be/5RLKo8WSG4w?t=0s) < 영상 클릭
